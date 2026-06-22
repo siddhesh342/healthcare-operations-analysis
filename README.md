@@ -40,14 +40,15 @@ The project contains three tables:
  *  DATEDIFF
  *  Aggregations
 
-# Business Questions Answered
- (?) Which department receives the most admissions?
- ? What are the monthly admission trends?
- ? Which age groups contribute the most admissions?
- ? What is the average length of stay by department?
- ? Which departments have the highest readmission rates?
- ? How does staffing vary by shift?
- ? What are the patient-to-nurse and patient-to-doctor ratios?
+## Business Questions Answered
+
+- Which department receives the most admissions?
+- What are the monthly admission trends?
+- Which age groups contribute the most admissions?
+- What is the average length of stay by department?
+- Which departments have the highest readmission rates?
+- How does staffing vary by shift?
+- What are the patient-to-nurse and patient-to-doctor ratios?
 
 # Dashboard Pages
      1) Executive Overview
