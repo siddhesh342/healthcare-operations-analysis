@@ -70,7 +70,7 @@ The project contains three tables:
             + Admissions by Acuity Level
 
     BY
-  # Siddheh Gadadhare
+    Siddheh Gadadhare
 
 
 
