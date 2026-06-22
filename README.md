@@ -1,5 +1,6 @@
 # healthcare-operations-analysis
 Healthcare Operations Analysis using SQL Server and Power BI
+   
     # Project Overview
 
 This project analyzes hospital admissions, patient demographics, readmission patterns, and staffing operations using Microsoft SQL Server and Power BI.
