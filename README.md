@@ -71,15 +71,18 @@ The project contains three tables:
 ## Dashboard Preview
 
 ### Executive Overview
+![Executive Overview](Page-1-Project_3_Executive_overview.png)
+
 
 
 
 ### Patient Analysis
+![Patient Analysis](Page-2-Project_3_patient_analysis.png)
 
 
 
 ### Operations and Staffing
-
+![Operations and Staffing](Page-3-Project_3_Operations&Staffing.png)
 
    
     
