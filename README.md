@@ -1,8 +1,8 @@
 # healthcare-operations-analysis
 Healthcare Operations Analysis using SQL Server and Power BI
    
+   
     # Project Overview
-
 This project analyzes hospital admissions, patient demographics, readmission patterns, and staffing operations using Microsoft SQL Server and Power BI.
 
 The dataset was  generated using Mockaroo and contains information on patients, admissions, and hospital staffing activities between January 2024 and December 2025.
