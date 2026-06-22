@@ -68,7 +68,21 @@ The project contains three tables:
             + Patient-to-Doctor Ratio
             + Patient Load by Shift
             + Admissions by Acuity Level
+## Dashboard Preview
 
+### Executive Overview
+
+
+
+### Patient Analysis
+
+
+
+### Operations and Staffing
+
+
+   
+    
     BY
     Siddheh Gadadhare
 
